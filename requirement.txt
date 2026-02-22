@@ -1,4 +1,2 @@
-TfidfVectorizer
-pandas
-numpy
+streamlit
 scikit-learn
